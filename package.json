@@ -1,6 +1,6 @@
 {
   "name": "spanexx-rlm",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "RLM CLI (Go) for searching and chunking large context files",
   "license": "MIT",
   "bin": {
