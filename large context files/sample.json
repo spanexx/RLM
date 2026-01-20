@@ -1,0 +1,14 @@
+{
+  "name": "sample",
+  "type": "test",
+  "description": "This is a test JSON file to verify that rlm includes .json files.",
+  "items": [
+    {"id": 1, "label": "first"},
+    {"id": 2, "label": "second"},
+    {"id": 3, "label": "third"}
+  ],
+  "metadata": {
+    "created": "2026-01-20",
+    "format": "json"
+  }
+}

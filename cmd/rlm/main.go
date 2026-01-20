@@ -41,6 +41,8 @@ func run(argv []string) int {
 	case "help", "-h", "--help":
 		printUsage()
 		return 0
+	case "readme":
+		return cmdReadme(args)
 	case "docs":
 		return cmdDocs(args)
 	case "config":
@@ -121,6 +123,16 @@ func catFile(path string) int {
 		return 2
 	}
 	return 0
+}
+
+func cmdReadme(argv []string) int {
+	wsRoot, err := rlmconfig.DetectWorkspaceRoot("")
+	if err != nil {
+		fmt.Fprintf(os.Stderr, "ERROR: %v\n", err)
+		return 2
+	}
+
+	return catFile(filepath.Join(wsRoot, "claude_code_RLM", "README.md"))
 }
 
 func cmdConfig(argv []string) int {

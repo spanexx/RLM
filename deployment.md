@@ -83,6 +83,26 @@ npm publish
 npm publish --access public
 ```
 
+If you see warnings like:
+
+- `npm warn publish ... auto-corrected some errors in your package.json`
+
+Run:
+
+```bash
+npm pkg fix
+```
+
+Then publish again.
+
+## 5.1) Important: npm versions are immutable
+
+If you try to publish the same version twice, npm will reject it:
+
+- `You cannot publish over the previously published versions: X.Y.Z.`
+
+In that case, bump the version and re-publish.
+
 ## 6) Verify install from npm
 
 After publishing:
