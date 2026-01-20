@@ -1,0 +1,861 @@
+d their Affiliates; (d) the making of or entering into of any agreement or arrangement relating to any of the foregoing matters or the announcement of any commitment to do any of the foregoing matters; or (e) the payment or incurrence of any Tax as a consequence of (a) to (d) above or as a result of any action outside the Ordinary Course. For the purposes of this definition, the Affiliates of the Sellers shall be deemed not to include the Company or its Subsidiaries.
+
+“Legal Proceeding” means any private or governmental action, inquiry, claim, counterclaim, proceeding, suit, hearing, litigation, audit or investigation, in each case whether civil, criminal, administrative, judicial or investigative, or any appeal therefrom.
+
+“Liabilities” (and, with correlative meaning, “Liability”) means all debts, liabilities, commitments and obligations, whether accrued or fixed, absolute or contingent, matured or unmatured, determined or determinable, liquidated or unliquidated, asserted or unasserted, known or unknown, whenever or however arising, including those arising under Applicable Law or any Legal Proceeding or Order of a Governmental Entity and those arising under any Contract, regardless of whether such debt, liability, commitment or obligation would be required to be reflected on a balance sheet prepared in accordance with IFRS or disclosed in the notes thereto.
+
+ 
+
+A-10
+
+“License Consideration” means an amount equal to $750,000,000.
+
+“Locked-Box Date” means March 31, 2020.
+
+“Nasdaq” means the Nasdaq Global Select Market, any successor stock exchange operated by The NASDAQ Stock Market LLC or any successor thereto.
+
+“Non-Earnout Party” means (i) if the Closing occurs on or prior to the completion of the Earnout Financial Statements, the Sellers, collectively, and (ii) if the Closing occurs after the completion of the Earnout Financial Statements, Parent.
+
+“Non-Tax Contract” shall mean any commercial contract entered into in the Ordinary Course a principal subject of which is not the allocation, sharing or indemnification of Taxes. Contracts with respect to the acquisition or a sale of any stock or business or a financial derivative (which financial derivative is not entered into in the Ordinary Course) shall not be considered a Non-Tax Contract.
+
+“Offer Letter” means an employment offer letter or employment agreement, together with a confidential information and invention assignment agreement, in a form prescribed by Parent.
+
+“Open Source Materials” means software or other material that is distributed as “free software,” “open source software” or under similar licensing or distribution terms (including the GNU General Public License (GPL), GNU Lesser General Public License (LGPL), Mozilla Public License (MPL), BSD licenses, the Artistic License, the Netscape Public License, the Sun Community Source License (SCSL) the Sun Industry Standards License (SISL) and the Apache License).
+
+“Order” means any judgment, writ, decree, stipulation, determination, decision, award, rule, preliminary or permanent injunction, temporary restraining order or other order.
+
+“Ordinary A Shares” has the meaning given in the Organizational Documents of the Company.
+
+“Ordinary Course” means, with respect to the Company and its Subsidiaries, the ordinary course of business consistent with recurring past practice for similar transactions during the period from the Prior Transaction Date to the Agreement Date.
+
+“Organizational Documents” means in respect of the Company, the articles of association of the Company in force as at the Agreement Date, or in the case of any other Person the legal document(s) by which any Person (other than an individual) establishes its legal existence or which govern its internal affairs. For example, the “Organizational Documents” of a corporation are its certificate of incorporation and by-laws or articles of association, the “Organizational Documents” of a limited partnership are its limited partnership agreement and certificate of limited partnership, the “Organizational Documents” of a limited liability company are its operating agreement and certificate of formation or articles of association and the “Organizational Documents” of a private limited company are its certificate of incorporation and its articles of association.
+
+ 
+
+A-11
+
+“Panel” means The Panel on Takeovers and Mergers;
+
+“Parachute Payment Waiver” means, with respect to any Person, a written agreement waiving such Person’s right to receive any “parachute payments” (within the meaning of Section 280G of the Code and the Department of Treasury regulations promulgated thereunder) solely to the extent required to avoid the imposition of a tax by virtue of the operation of Section 280G of the Code.
+
+“Parent Financial Advisor” means Morgan Stanley & Co. LLC.
+
+“Parent Material Adverse Effect” means any Effect on Parent or Acquirer or any of their Subsidiaries, that, individually or in the aggregate (i) materially impairs the ability of Parent or Acquirer to perform its obligations under this Agreement or (ii) would prevent Parent or Acquirer from consummating the Transactions.
+
+“Parent Stock” means shares of Parent’s common stock, par value $0.001 per share.
+
+“Parent Stock Price” means $484.6007.
+
+“Permitted Encumbrances” means: (i) statutory liens for Taxes that are not yet due and payable or liens for Taxes being contested in good faith by any appropriate proceedings for which adequate reserves have been established in accordance with IFRS on the Company Balance Sheet, (ii) statutory liens to secure obligations to landlords, lessors or renters under leases or rental agreements, (iii) deposits or pledges made in connection with, or to secure payment of, workers’ compensation, unemployment insurance or similar programs mandated by Applicable Law, (iv) statutory liens in favor of carriers, warehousemen, mechanics and materialmen, to secure claims for labor, materials or supplies and other like liens, (v) liens in favor of customs and revenue authorities arising as a matter of Applicable Law to secure payments of customs duties in connection with the importation of goods, (vi) non-exclusive licenses and similar rights of or under Intellectual Property in the Ordinary Course, (vii) non-exclusive licenses and similar rights of or under Intellectual Property under Contracts made available to Parent, and (viii) in the case of any real property leased by the Company or its Subsidiaries: (A) liens that encumber the interest of the fee owner of any real property and (B) easements, permits, rights of way, restrictions, covenants, reservations, encroachments, or other title defects that do not, individually or in the aggregate, materially impair the use or occupancy of such real property and which are not violated by the current use and operation of the real property.
+
+“Permitted Leakage” means any of the following by the Company or any Subsidiary of the Company: (i) the Cash Sweep in accordance with Section 6.9(c); (ii) the sale, transfer or disposal of any asset to the Sellers or their Affiliates (other than the Company and its Subsidiaries) pursuant to the Reorganizations in accordance with the Reorganization Plans; (iii) the dividend, distribution or payment to the Sellers of any proceeds received by the Company or any Subsidiary of the Company from the sale, transfer or disposal of any asset pursuant to the Reorganizations in accordance with the Reorganization Plans; (iv) any payment made or agreed to be made during the period from the Locked-Box Date up to the Agreement Date and disclosed in the Seller Disclosure
+
+ 
+
+A-12
+
+Letter; (v) any payments made or agreed to be made by the Company or any Subsidiary of the Company which have been specifically accrued or provided for in the Locked-Box Accounts; (vi) any bona fide transaction on arm’s length terms and in the Ordinary Course entered into between the Company or a Subsidiary of the Company on the one part, and a non-controlled portfolio company investment of the Sellers or their Affiliates on the other part, or any payments by the Company or any Subsidiary of the Company to such non-controlled portfolio company investment in connection with such a transaction; (vii) any bona fide transaction on arm’s length terms and in the Ordinary Course entered into between the Company or a Subsidiary of the Company on the one part, and the Sellers or their Affiliates on the other part, involving services provided by the Company or any Subsidiary of the Company to the Sellers or their Affiliates and any payments to the Company or any Subsidiary of the Company in connection with such a transaction; (viii) any bona fide transaction on arm’s length terms and in the Ordinary Course entered into between the Company or a Subsidiary of the Company on the one part, and the Sellers or their Affiliates on the other part, and any payments by the Company or any Subsidiary of the Company to the Sellers or their Affiliates on the terms and in the amounts set forth in the Seller Disclosure Letter, in each case materially consistent with the disclosure set forth in the Seller Disclosure Letter or pursuant to Contracts made available to Parent prior to the Agreement Date; (ix) any other payments accrual, transfer of assets or assumption of liability to which Parent has given its consent in writing; (x) the payment or incurrence of any Transfer Taxes in accordance with Section 1.4; or (xi) the distribution of the License Consideration to the Sellers or their Affiliates. For the purposes of this definition, the Affiliates of the Sellers shall be deemed not to include the Company or its Subsidiaries.
+
+“Person” means any natural person, company, corporation, limited liability company, general partnership, limited partnership, limited liability partnership, trust, estate, proprietorship, joint venture, business organization or Governmental Entity.
+
+“Personal Data” means any information relating to an identified or identifiable natural person including a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person or any other piece of information that allows the identification of a natural person or is otherwise considered personally identifiable information or personal information under Applicable Law.
+
+“PIIN” means (i) a public interest intervention notice issued by the Secretary of State in accordance with section 42 of the Enterprise Act, or (ii) a European intervention notice issued by the Secretary of State in accordance with section 67 of the Enterprise Act.
+
+“Post-Closing IP Deferred Tax Liability” means any Tax liability of the Company or any Subsidiary in respect of taxable periods or portions thereof beginning after the Closing arising in respect of amounts received, deemed to be received, or which are recognized, or imputed/adjusted under transfer pricing principles, in respect of taxable periods or portions thereof beginning after the Closing, in connection with the 2018 IP Sale.
+
+“Post-Closing Restructuring” means any portion of the Reorganizations that has not been completed prior to Closing.
+
+ 
+
+A-13
+
+“POU Termination Date” means September 5, 2021 or such other date as may be agreed between the Company and the Panel.
+
+“PRC” means the People’s Republic of China, for the purposes of this definition, excluding Hong Kong, Macau and Taiwan.
+
+“Pre-Closing Tax Period” means any Tax period ending on or before the Closing Date and that portion of any Straddle Period ending at the close of business on (and including) the Closing Date.
+
+“Pre-Closing Taxes” means Taxes of the Company and its Subsidiaries with respect to any Pre-Closing Tax Period (including such Taxes allocable to the portion of the Straddle Period ending on the close of business on the Closing Date determined pursuant to Section 6.14(f)), other than (i) Seller Transaction Taxes and (ii) Post-Closing IP Deferred Tax Liabilities. For the avoidance of doubt, any Taxes of the Company and its Subsidiaries imposed in any Pre-Closing Tax Period, which relate to or are in connection with the 2018 IP Sale, including pursuant to any adjustment by a Tax Authority, shall be Pre-Closing Taxes.
+
+“Prior Transaction Date” means September 6, 2016.
+
+“Privacy Laws” means each Applicable Law applicable to Personal Data and/or direct marketing and advertising, profiling and tracking, e-mail, messaging and/or telemarketing, including, but not limited to, the General Data Protection Regulation (EU) 2016/679, the Data Protection Act 2018 (UK) and the Payment Card Industry Data Security Standards.
+
+“Pro Rata Share” means, with respect to a particular Seller, the percentage set forth on Exhibit E.
+
+“Property Taxes” means all real property Taxes, personal property Taxes and similar ad valorem Taxes.
+
+“Proprietary Information and Technology” means any and all of the following: works of authorship, computer programs, source code and executable code, whether embodied in software, firmware or otherwise, assemblers, applets, compilers, user interfaces, application programming interfaces, protocols, architectures, documentation, annotations, comments, designs, files, records, schematics, test methodologies, Verilog files, RTL, GDSII files, netlists, layout designs, topographies, cores, blocks, libraries, circuit designs, whether embodied in software or otherwise, test vectors, emulation and simulation tools and reports, hardware development tools, models, tooling, prototypes, breadboards and other devices, mask works, mask sets, wafers, data, data structures, databases, data compilations and collections, inventions (whether or not patentable), invention disclosures, discoveries, improvements, technology, proprietary and confidential ideas and information, tools, concepts, techniques, methods, processes, formulae, patterns, algorithms and specifications, customer lists and supplier lists and any and all instantiations or embodiments of the foregoing of any Intellectual Property Rights in any form and embodied in any media.
+
+“Relief” means any loss, relief, allowance, credit, exemption or set off for Tax or any deduction in computing income, profits or gains for the purposes of Tax and any right to a repayment of Tax or to a payment in respect of Tax.
+
+ 
+
+A-14
+
+“Representatives” means, with respect to a Person, such Person’s officers, directors, Affiliates, shareholders or employees, or any investment banker, attorney, accountant, auditor or other advisor or representative retained by any of them.
+
+“Revenue” means the revenue of the Company, calculated in accordance with the Transaction Principles.
+
+“Revenue Consideration” means $2,500,000,000.
+
+“Revenue Contingent Consideration” means an amount equal to the Revenue Earnout amount, if any, earned by the Sellers pursuant to Section 1.3(a).
+
+“Revenue Floor” has the meaning given to it in the Sample Earnout Statement.
+
+“Revenue Percentage” means an amount, expressed as a percentage, equal to (i) the sum of (a) Revenue as finally determined pursuant to Section 1.3, minus (b) the Revenue Floor, divided by (ii) the sum of (a) the Revenue Target minus (b) the Revenue Floor.
+
+“Revenue Target” has the meaning given to it in the Sample Earnout Statement.
+
+“SEC” means the United States Securities Exchange Commission.
+
+“Secretary of State” mean the Secretary of State for the purposes of the Enterprise Act.
+
+“Securities Act” means the Securities Act of 1933, as amended, and the rules and regulations promulgated thereunder.
+
+“Seller Transaction Taxes” means Restructuring Taxes, Transfer Taxes and any Taxes incurred by the Company or its Subsidiaries as a result of or in connection with the Cash Sweep.
+
+“Special Representations” means the Sellers’ and the Company’s representations and warranties set forth in Section 2.1 (Organization, Standing, Power and Subsidiaries), Section 2.2 (Capital Structure), Section 2.3(a) (Authority), Section 2.16 (Brokers and Transaction Fees), Section 3.1 (Organization and Standing), Section 3.2(a) (Authority), Section 3.3 (Title to Shares), Section 3.5 (Brokers and Transaction Fees) and Section 3.6 (Investment Representations) and any representations and warranties in any certificate delivered to Parent or Acquirer pursuant to this Agreement that are within the scope of those covered by the foregoing Sections.
+
+“Special Tax Representations” means the Sellers’ and the Company’s representations and warranties set forth in Sections 2.10(o), (p), (q), (u), (v), (y), (z), (aa), (bb) and (cc).
+
+“Specified Regulatory Authority” means (i) any U.S. federal Governmental Entity, and (ii) any non-U.S. or supranational Governmental Entity listed on Exhibit F.
+
+“Straddle Period” means any Tax period beginning before or on and ending after the Closing Date.
+
+ 
+
+A-15
+
+“Subsidiary” means, with respect to any Person, any corporation, partnership, limited liability company or other Person of which such Person, either alone or together with one or more Subsidiaries or by one or more other Subsidiaries (i) directly or indirectly owns or purports to own, beneficially or of record securities or other interests representing more than 50% of the allotted and issued equity, voting power, or financial interests of such Person or (ii) is entitled, by Contract or otherwise, to elect, appoint or designate directors constituting a majority of the members of such other Person’s board of directors or other governing body.
+
+“Target Accounts Receivable” has the meaning set forth on Exhibit Q
+
+“Tax” (and, with correlative meaning, “Taxes” and “Taxable”) means all taxes whether of the United States, the United Kingdom or any other jurisdiction including federal, state, local, national, governmental, municipal or foreign income, corporation, alternative or add-on minimum tax, gross income, estimated, gross receipts, sales, use, ad valorem, value added, transfer, franchise, fringe benefit, share capital, profits, license, registration, withholding, payroll, social security (or equivalent), employer’s and employee’s national insurance contributions, employment, unemployment, disability, excise, severance, stamp, occupation, premium, property (real, tangible or intangible), environmental or windfall profit tax, custom duty or other tax, governmental fee, branch profits, escheat, capital stock, or other like assessment or charge of any kind, together with any interest or any penalty, addition to tax or additional amount (whether disputed or not).
+
+“Tax Authority” means any Governmental Entity having or purporting to exercise jurisdiction with respect to any Tax.
+
+“Tax Representations” means the Sellers’ and the Company’s representations and warranties set forth in Section 2.10 (Taxes).
+
+“Tax Return” means any return, declaration, statement, report, claim for refund, or form of any kind related to Taxes (including estimated Tax returns and reports, withholding Tax returns and reports, any schedule or attachment, and information returns and reports), including any amendment thereof, filed or required to be filed with respect to Taxes.
+
+“TD Entities” means: (i) Treasure Data (UK) Limited, (ii) Treasure Data USA LLC, (iii) Treasure Data, Inc., (iv) Arm Holdings Canada, Inc., (v) Stream Communications Deutschland GmbH, (vi) Treasure Data KK, (vii) INCUDATA KK, (viii) Treasure Data (India) Private Limited, (ix) Treasure Data (Korea) Ltd., and (x) any other entities identified as “TD Entities” in the ISG Reorganization Plan, or newly formed as “TD Entities” pursuant to the ISG Reorganization.
+
+“Third Party” means any Person other than the Company, the Sellers, Parent, Acquirer and each of their respective Affiliates and the respective Representatives of the Company, the Sellers, Parent, Acquirer and each of their respective Affiliates.
+
+“Third-Party Intellectual Property” means any and all Intellectual Property owned or purported to be owned by a Third Party.
+
+ 
+
+A-16
+
+“Transaction Documents” means this Agreement, the Investor Rights Agreement, the Framework Agreement and the Escrow Agreement.
+
+“Transaction Expenses” means all third-party fees, costs, expenses, payments and expenditures incurred by or on behalf of and payable by the Company in connection with the Share Purchase, this Agreement and the Transactions, including the Reorganizations, whether or not incurred, billed or accrued, including (i) any fees, costs expenses, payments and expenditures of legal counsel and accountants, (ii) the amount of fees costs, expenses, payments and expenditures payable to brokers, finders, financial advisors, investment bankers or similar Persons, including with respect to any earn-outs, escrows or other contingencies, (iii) all change-in-control bonuses, severance obligations or similar compensatory amounts owed by the Company or its Subsidiaries to any of their respective directors, employees and/or consultants as a result of the Share Purchase (whether alone or in combination with any termination of service) that are unpaid as of the Closing and the employer portion of any related payroll taxes, national insurance, social security (or similar) contributions or levies with respect thereto, (iv) any such fees, costs, expenses, payments and expenditures incurred by the Sellers or a Grade 9 employee of the Company or any of its Subsidiaries paid for or to be paid for by the Company, and (v) the cost of the D&O Insurance; but not including, for the avoidance of doubt, the Equity Plan Payments, the Closing Employee Cash Plan Payments, the EC Sale Plan Payments or any other items separately included in Closing Cash Uses, the Accrued Amounts, any Seller Transaction Taxes, or the Retention Bonus Pool (or the Post-Closing Employee Retention Bonuses to be paid therefrom).
+
+“Transaction Principles” means the accounting principles, methodologies, policies applied on a consistent basis in accordance with IFRS as used in making the calculations set forth in the Sample Earnout Statement.
+
+“Treasury Regulations” means the United States Treasury Department’s tax regulations issued under the Code.
+
+“U.S. Employee” means each Company Employee who is employed in the United States.
+
+“VAT” means (i) any Tax imposed in compliance with the Council Directive of 28 November 2006 on the common system of value added tax (EC Directive 2006/112) and (ii) any other Tax of a similar nature, whether imposed in a member state of the European Union or elsewhere and whether imposed in substitution for, or levied in addition to, any Tax referred to in limb (i) of this definition.
+
+ 
+
+A-17
+
+Other capitalized terms used herein and not defined in this Exhibit A shall have the meanings assigned to such terms in the following Sections:
+
+ 
+
+“2019 Audited Financials”
+
+  	
+6.24
+
+“280G Shareholder Approval”
+
+  	
+6.15
+
+“Accrued Amounts”
+
+  	
+6.10(b)
+
+“Acquirer”
+
+  	
+Preamble
+
+“Agreement”
+
+  	
+Preamble
+
+“Agreement Date”
+
+  	
+Preamble
+
+“Approved TD Sale”
+
+  	
+6.16(a)
+
+“Arbitration Panel”
+
+  	
+9.6(c)
+
+“Author”
+
+  	
+2.8(d)
+
+“Board”
+
+  	
+Recitals
+
+“Business Client”
+
+  	
+6.2(a)
+
+“Cash Shortfall”
+
+  	
+6.9(b)
+
+“Cash Sweep”
+
+  	
+6.9(c)
+
+“Claim Certificate”
+
+  	
+9.5(a)
+
+“Claims Period”
+
+  	
+9.4
+
+“Closing”
+
+  	
+1.1(c)
+
+“Closing Cash Uses”
+
+  	
+6.9(b)
+
+“Closing Date”
+
+  	
+1.1(c)
+
+“Committee”
+
+  	
+6.23(a)
+
+“Company”
+
+  	
+Preamble
+
+“Company Authorizations”
+
+  	
+2.6(b)
+
+“Company Balance Sheet”
+
+  	
+2.4(b)
+
+“Company Balance Sheet Date”
+
+  	
+2.4(b)
+
+“Company Employee Plans”
+
+  	
+2.11(c)
+
+“Company Equity Award”
+
+  	
+2.2(b)
+
+“Company Group Entities”
+
+  	
+2.1(b)
+
+“Company Shares”
+
+  	
+Recitals
+
+“Confidential Information”
+
+  	
+6.3(a)
+
+“Confidentiality Agreement”
+
+  	
+6.3(a)
+
+“Continuing Employee”
+
+  	
+6.10(a)
+
+“Covered Persons”
+
+  	
+6.20(a)
+
+“D&O Insurance”
+
+  	
+6.20(a)
+
+“Damages”
+
+  	
+9.2(a)
+
+“De Minimis Threshold”
+
+  	
+9.3(c)(i)
+
+“Deductible”
+
+  	
+9.3(c)(ii)
+
+“Deposit Refund”
+
+  	
+8.3(a)
+
+“Discounted Percentage”
+
+  	
+Exhibit Q
+
+“Distribution”
+
+  	
+6.16(a)
+
+“Distribution Compliance Period”
+
+  	
+3.6(f)(i)
+
+“Earnout Financial Statements”
+
+  	
+1.3(c)(i)
+
+“Earnout Resolution Period”
+
+  	
+1.3(c)(iii)
+
+“Earnout Review Period”
+
+  	
+1.3(c)(ii)
+
+“Earnout Statement”
+
+  	
+1.3(c)(i)
+
+“Earnouts”
+
+  	
+1.3(b)
+
+“EBITDA Earnout”
+
+  	
+1.3(b)
+
+“Escrow Agent”
+
+  	
+9.1(a)
+
+“Escrow Agreement”
+
+  	
+7.2(c)(iii)
+
+“Escrow Fund”
+
+  	
+9.1(a)
+
+“Escrow Release Date”
+
+  	
+9.1(a)
+
+“Export Approvals”
+
+  	
+2.18(b)
+
+“Export Control Laws”
+
+  	
+2.18(a)
+
+“Financial Statements”
+
+  	
+2.4(a)
+
+“Framework Agreement”
+
+  	
+Recitals
+
+“GAAP”
+
+  	
+4.7(b)
+
+“General Claims”
+
+  	
+9.3(a)
+
+“General Liability Cap”
+
+  	
+9.3(a)
+
+“Indemnified Person”
+
+  	
+9.2(b)
+
+“Indemnifying Party”
+
+  	
+9.1(a)
+
+“Interested Parties”
+
+  	
+2.12
+
+“Interim Period”
+
+  	
+5.1
+
+“Internal Reorganization”
+
+  	
+Recitals
+
+ 
+ 
+
+A-18
+
+“Internal Reorganization Plan”
+
+  	
+Recitals
+
+“Investor Rights Agreement”
+
+  	
+7.2(c)(ii)
+
+“ISG”
+
+  	
+Recitals
+
+“ISG Reorganization”
+
+  	
+Recitals
+
+“ISG Reorganization Documents”
+
+  	
+6.16(b)
+
+“ISG Reorganization Plan”
+
+  	
+Recitals
+
+“Joint Communications”
+
+  	
+6.3(b)
+
+“JV IPLA”
+
+  	
+2.22(f)
+
+“Locked-Box Accounts”
+
+  	
+2.4(a)
+
+“Material Commercial Contracts”
+
+  	
+2.15(a)(i)
+
+“Material Contracts”
+
+  	
+2.15(a)
+
+“Material IP Contracts”
+
+  	
+2.15(a)(vii)
+
+“New Litigation Claim”
+
+  	
+6.6
+
+“New Plans”
+
+  	
+6.10(e)
+
+“Non-compete Period”
+
+  	
+6.2(a)
+
+“Non-U.S. Recipient”
+
+  	
+3.6(c)
+
+“OFAC”
+
+  	
+2.18(a)
+
+“Parent”
+
+  	
+Preamble
+
+“Parent Disclosure Letter”
+
+  	
+Article IV
+
+“Parent Equity Plan”
+
+  	
+6.12
+
+“Parent Indemnified Person”
+
+  	
+9.2(a)
+
+“Parent RSU Documents”
+
+  	
+6.12
+
+“Parent RSUs”
+
+  	
+6.12
+
+“Payor”
+
+  	
+1.1(b)
+
+“Pending Closing Cash Uses”
+
+  	
+6.9(b)
+
+“Post-Closing Employee Retention Bonuses”
+
+  	6.13(a)
+“Proceeding”
+
+  	
+10.12(b)
+
+“R&D Sponsor”
+
+  	
+2.8(c)
+
+“Reference Date”
+
+  	
+4.4
+
+“Regulatory Approvals”
+
+  	
+6.4(c)
+
+“Regulatory Filings”
+
+  	
+6.4(c)
+
+“Released Party”
+
+  	
+10.11(a)
+
+“Releasing Party”
+
+  	
+10.11(a)
+
+“Remedy”
+
+  	
+6.4(e)
+
+“Reorganization Plans”
+
+  	
+Recitals
+
+“Reorganizations”
+
+  	
+Recitals
+
+“Required Carve-Out Audited Financial Statements”
+
+  	
+6.22(a)
+
+“Required Financial Statements”
+
+  	
+6.22(a)
+
+“Required Pro Forma Financial Statements”
+
+  	
+6.22(a)
+
+“Restructuring Taxes”
+
+  	
+1.4(a)
+
+“Retention Bonus Pool”
+
+  	
+6.13(a)
+
+“Revenue Earnout”
+
+  	
+1.3(a)
+
+“Sample Earnout Statement”
+
+  	
+1.3(c)(i)
+
+“Sanctioned Countries”
+
+  	
+2.18(c)
+
+“Sanctioned Persons”
+
+  	
+2.18(c)
+
+“Sanctions”
+
+  	
+2.18(a)
+
+“SEC Reports”
+
+  	
+4.7(a)
+
+“Section 280G Payments”
+
+  	
+6.15
+
+“Seller”
+
+  	
+Preamble
+
+“Seller Bank Accounts”
+
+  	
+1.2(a)(ii)
+
+“Seller Claim”
+
+  	
+10.11(a)
+
+“Seller Disclosure Letter”
+
+  	
+Article II
+
+“Seller Indemnified Person”
+
+  	
+9.2(b)
+
+“Seller Indemnifying Party”
+
+  	
+9.1(a)
+
+“Separation”
+
+  	
+6.16(a)
+
+“Share Purchase”
+
+  	
+Recitals
+
+“Shares”
+
+  	
+3.6(c)
+
+“Significant Customer”
+
+  	
+2.20
+
+“Significant Supplier”
+
+  	
+2.21
+
+“SoftBank”
+
+  	
+Preamble
+
+“Spreadsheet”
+
+  	
+6.8(a)
+
+“Straddle Period Tax Return”
+
+  	
+6.14(e)
+
+ 
+ 
+
+A-19
+
+“Target Accounts Receivable”
+
+  	
+Exhibit Q
+
+“Tax Matter”
+
+  	
+6.14(g)(i)
+
+“Termination Date”
+
+  	
+8.1(b)
+
+“Third-Party Claim”
+
+  	
+9.7
+
+“Trade Secrets”
+
+  	
+2.8(e)
+
+“Transaction Committee”
+
+  	
+6.18(a)
+
+“Transactions”
+
+  	
+Recitals
+
+“Transfer Taxes”
+
+  	
+1.4(a)
+
+“UK Stamp Taxes”
+
+  	
+1.4(a)
+
+“U.S. Accrued PTO”
+
+  	
+6.10(b)
+
+“Vision Fund”
+
+  	
+Preamble
+
+“willful breach”
+
+  	
+8.2
+
+ 
+ 
+
+ 
+
+A-20

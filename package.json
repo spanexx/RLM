@@ -1,0 +1,26 @@
+{
+  "name": "spanexx-rlm",
+  "version": "0.1.0",
+  "description": "RLM CLI (Go) for searching and chunking large context files",
+  "license": "MIT",
+  "bin": {
+    "rlm": "bin/rlm.js"
+  },
+  "scripts": {
+    "postinstall": "node scripts/postinstall.js"
+  },
+  "files": [
+    "bin/rlm.js",
+    "scripts/postinstall.js",
+    "cmd/",
+    "internal/",
+    "go.mod",
+    "README.md",
+    "LICENSE"
+  ],
+  "author": "spanexx",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/spanexx/rlm.git"
+  }
+}

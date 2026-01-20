@@ -1,0 +1,226 @@
+# Claude Code RLM
+
+A minimal implementation of Recursive Language Models (RLM) using Claude Code as the scaffold. Implemented by [Brainqub3](https://brainqub3.com/).
+
+## About
+
+This repository provides a basic RLM setup that enables Claude to process documents and contexts that exceed typical context window limits. It implements the core RLM pattern where a root language model orchestrates sub-LLM calls over chunks of a large document.
+
+**This is a basic implementation** of the RLM paper. For the full research, see:
+
+> **Recursive Language Models**
+> Alex L. Zhang, Tim Kraska, Omar Khattab
+> MIT CSAIL
+> [arXiv:2512.24601](https://arxiv.org/abs/2512.24601)
+
+*Abstract: RLMs treat long prompts as part of an external environment and allow the LLM to programmatically examine, decompose, and recursively call itself over snippets of the prompt. RLMs can handle inputs up to two orders of magnitude beyond model context windows.*
+
+## Architecture
+
+This implementation maps to the RLM paper architecture as follows:
+
+| RLM Concept | Implementation | Model |
+|-------------|----------------|-------|
+| Root LLM | Main Claude Code conversation | **Claude Opus 4.5** |
+| Sub-LLM (`llm_query`) | `rlm-subcall` subagent | **Claude Haiku** |
+| External Environment | Persistent Python REPL (`rlm_repl.py`) | Python 3 |
+
+The root LLM (Opus 4.5) orchestrates the overall task, while delegating chunk-level analysis to the faster, lighter sub-LLM (Haiku). The Python REPL maintains state across invocations and provides utilities for chunking, searching, and managing the large context.
+
+## Prerequisites
+
+- **Claude Code account** - You need access to [Claude Code](https://claude.ai/claude-code), Anthropic's official CLI tool
+- **Python 3** - For the persistent REPL environment
+
+## Usage
+
+1. **Clone this repository**
+   ```bash
+   git clone https://github.com/Brainqub3/claude_code_RLM.git
+   cd claude_code_RLM
+   ```
+
+2. **Start Claude Code in the repository directory**
+   ```bash
+   claude
+   ```
+
+3. **Run the RLM skill**
+   ```
+   /rlm
+   ```
+
+4. **Follow the prompts** - The skill will ask for:
+   - A path to your large context file
+   - Your query/question about the content
+
+The RLM workflow will then:
+- Initialize the REPL with your context
+- Chunk the document appropriately
+- Delegate chunk analysis to the sub-LLM
+- Synthesize results in the main conversation
+
+## `rlm` CLI (Go) - fast retrieval from large context files
+
+This repository also includes a Go-based CLI tool called `rlm`.
+
+The CLI is designed for *tool use* (LLM/agent workflows): it helps you list, search, peek, and chunk large files without loading them into chat.
+
+### Install / Run
+
+From the repository root:
+
+```bash
+# Run without installing
+go run ./cmd/rlm --help
+
+# Build a local binary
+go build -o ./bin/rlm ./cmd/rlm
+./bin/rlm --help
+
+# Install into your Go bin directory (usually ~/go/bin)
+go install ./cmd/rlm
+rlm --help
+```
+
+### Install via npm (global)
+
+This CLI can also be installed via npm as a global command.
+
+Notes:
+- The npm package builds the `rlm` Go binary during install, so you must have **Go installed**.
+
+```bash
+npm i -g rlm
+rlm --help
+```
+
+### Configuration: global vs workspace
+
+You can configure where your “large context files” live:
+
+- **Workspace config**: `<workspace>/.rlm/config.json`
+- **Global config**: `~/.config/rlm/config.json`
+
+The workspace is detected as the **git root** if available; otherwise it falls back to the current directory.
+
+Precedence for the context directory:
+
+`--dir` > `RLM_CONTEXT_DIR` > workspace config > global config > default
+
+Default (if nothing is configured):
+
+`<workspace>/large context files`
+
+Examples:
+
+```bash
+# Set context dir for this workspace
+rlm config set --scope workspace --context-dir "/path/to/large-files"
+
+# Set context dir globally
+rlm config set --scope global --context-dir "/path/to/large-files"
+
+# Show resolved configuration
+rlm config show
+rlm config show --json
+```
+
+### Commands
+
+Flags accept GNU-style `--name` and can appear before or after the positional file argument.
+
+#### Docs
+
+Print project docs to stdout:
+
+```bash
+rlm docs readme
+rlm docs skill
+```
+
+#### List files
+
+```bash
+rlm files
+rlm files --json
+```
+
+#### Search
+
+Search outputs JSON by default (agent-friendly). Exit codes: `0` match, `1` no match, `2` error.
+
+```bash
+rlm search --query "term"
+rlm search --query "term" --ignore-case
+rlm search --query "EX-2\\.1" --regex
+rlm search --query "term" --max-matches 20 --max-per-file 5
+```
+
+#### Peek (byte range)
+
+```bash
+rlm peek "somefile.txt" --start 0            # defaults to ~8KB
+rlm peek "somefile.txt" --start 0 --end 2000
+rlm peek "/absolute/path/to/somefile.txt" --start 1000 --end 2000
+rlm peek "somefile.txt" --start 0 --end -1   # EOF
+```
+
+#### Chunk
+
+```bash
+rlm chunk "somefile.txt" --size 200000 --overlap 0
+rlm chunk "somefile.txt" --size 200000 --overlap 2000 --out "/tmp/rlm-chunks"
+```
+
+## Working with Long Files
+
+When using RLM to process large context files, it is recommended to save them in a dedicated `context/` folder within this project directory. This keeps your working files organized and separate from the RLM implementation code.
+
+```bash
+mkdir context
+# Place your large documents here, e.g.:
+# context/my_large_document.txt
+# context/codebase_dump.py
+```
+
+## Security Warning
+
+**This project is not intended for production use.**
+
+If you plan to run Claude Code in `--dangerously-skip-permissions` mode:
+
+1. **Ensure your setup is correct** - Verify all file paths and configurations before enabling this mode
+2. **Run in an isolated folder** - Never run with skipped permissions in directories containing sensitive data, credentials, or system files
+3. **Understand the risks** - This mode allows Claude to execute commands without confirmation prompts, which can lead to unintended file modifications or deletions
+
+**Recommended**: Create a dedicated, isolated working directory specifically for RLM tasks when using dangerous mode:
+
+```bash
+# Example: Create an isolated workspace
+mkdir ~/rlm-workspace
+cd ~/rlm-workspace
+git clone https://github.com/Brainqub3/claude_code_RLM.git
+cd claude_code_RLM
+```
+
+## Repository Structure
+
+```
+.
+├── CLAUDE.md                          # Project instructions for Claude Code
+├── .claude/
+│   ├── agents/
+│   │   └── rlm-subcall.md            # Sub-LLM agent definition (Haiku)
+│   └── skills/
+│       └── rlm/
+│           ├── SKILL.md              # RLM skill definition
+│           └── scripts/
+│               └── rlm_repl.py       # Persistent Python REPL
+├── context/                           # Recommended location for large context files
+└── README.md
+```
+
+## License
+
+See [LICENSE](LICENSE) for details.
