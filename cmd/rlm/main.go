@@ -134,7 +134,18 @@ func cmdReadme(argv []string) int {
 		return 2
 	}
 
-	return catFile(filepath.Join(wsRoot, "claude_code_RLM", "README.md"))
+	primary := filepath.Join(wsRoot, "claude_code_RLM", "README.md")
+	if _, err := os.Stat(primary); err == nil {
+		return catFile(primary)
+	}
+
+	fallback := filepath.Join(wsRoot, "README.md")
+	if _, err := os.Stat(fallback); err == nil {
+		return catFile(fallback)
+	}
+
+	fallback2 := filepath.Join(wsRoot, "CLAUDE.md")
+	return catFile(fallback2)
 }
 
 func cmdVersion(argv []string) int {
